@@ -1,7 +1,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 publishDir = "docs"
-baseurl = "https://cherry_44.github.io"
+baseurl = "https://hyinghui.github.io/cherry_44.github.io/"
 
 # Title of your site
 title = "Take My Time - 车厘子 - blog"
