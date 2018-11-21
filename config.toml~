@@ -72,7 +72,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "pencil"
     icon_pack = "fa"
-    link = "http://blog.163.com/cherry_44"
+    link = "//blog.163.com/cherry_44"
     text = "网易博客"
 
 
