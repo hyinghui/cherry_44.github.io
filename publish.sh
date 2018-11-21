@@ -1,0 +1,1 @@
+hugo -t minimal-academic
