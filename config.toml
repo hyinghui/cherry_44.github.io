@@ -39,6 +39,9 @@ enableGitInfo = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+  # title
+  blog_title = "Take My Time"
+  slogan = "That's just life."
   # Your details.
   name = "车厘子"
   bio = "心之所向，素履所往"
